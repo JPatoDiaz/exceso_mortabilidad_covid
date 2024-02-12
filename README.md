@@ -28,6 +28,7 @@ Analizar y calcular el exceso de mortalidad causada por COVID-19 por cada 100,00
 
 - Google Sheets 
 - Google Slides
+- Loom
 
 ## ¿Cuál fue el proceso de trabajo?  
 
@@ -40,4 +41,16 @@ El desarrollo del proyecto se llevo a través de las siguientes fases
 -   Presentación de resultados con las partes interesadas.
 
 ## Imágenes de resultados
+
+![enter image description here](https://github.com/JPatoDiaz/exceso_mortalidad_covid/blob/main/assets/Image1.png)
+![enter image description here](https://github.com/JPatoDiaz/exceso_mortalidad_covid/blob/main/assets/Image2.png)
+![enter image description here](https://github.com/JPatoDiaz/exceso_mortalidad_covid/blob/main/assets/Image3.png)
+![enter image description here](https://github.com/JPatoDiaz/exceso_mortalidad_covid/blob/main/assets/Image4.png)
+
+## Archivos
+
+- Dashboard + Dataset:  https://docs.google.com/spreadsheets/d/1K0gsh2DSydGj8MDKM9NGY62mK1h9u84_Nm6I2eaffKU/edit#gid=1597378287
+- Presentación: https://docs.google.com/presentation/d/14Zy1c1JfU_4PR0cEqfRUuPCzuFZs_uf0eDdB5oDBAvE/edit#slide=id.p
+- Video presentación: https://www.loom.com/share/2b51c0e683fa413bb5fac164f86db145?sid=a5950ed2-751c-42e4-b50a-3f94d3f7ad5e
+
 
